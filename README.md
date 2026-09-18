@@ -22,13 +22,13 @@
 
 ## 演示视频
 
-下面是近期制作的公开演示片。它们用于展示输出效果，不影响 Skill 的安装，也不包含任何 API 密钥。
+下面是近期制作的公开演示片。R2 链接用于浏览器在线播放，GitHub 链接用于下载仓库内的副本。它们用于展示输出效果，不影响 Skill 的安装，也不包含任何 API 密钥。
 
-| Demo | 内容 | 时长 | 下载 |
-| --- | --- | ---: | --- |
-| GoodTrans 五万字小说宣传片 | 一次提交整本小说、术语一致、异步交付 | 50 秒 | [`demos/goodtrans-50k-novel-promo.mp4`](demos/goodtrans-50k-novel-promo.mp4) |
-| GoodTrans 质量交付宣传片 | 长文翻译质量、术语和结构保持 | 41 秒 | [`demos/goodtrans-master-grade-translation.mp4`](demos/goodtrans-master-grade-translation.mp4) |
-| GoodTrans 交付包演示 | 邮件交付、译文、双语审阅和质量报告 | 23 秒 | [`demos/goodtrans-delivery-proof.mp4`](demos/goodtrans-delivery-proof.mp4) |
+| Demo | 内容 | 时长 | 在线播放 | GitHub 下载 |
+| --- | --- | ---: | --- | --- |
+| GoodTrans 五万字小说宣传片 | 一次提交整本小说、术语一致、异步交付 | 50 秒 | [R2 播放](https://pub-d3d7d0e36d9447159063249f2cb40dc3.r2.dev/product-promo-video-director/demos/goodtrans-50k-novel-promo.mp4) | [`MP4`](demos/goodtrans-50k-novel-promo.mp4) |
+| GoodTrans 质量交付宣传片 | 长文翻译质量、术语和结构保持 | 41 秒 | [R2 播放](https://pub-d3d7d0e36d9447159063249f2cb40dc3.r2.dev/product-promo-video-director/demos/goodtrans-master-grade-translation.mp4) | [`MP4`](demos/goodtrans-master-grade-translation.mp4) |
+| GoodTrans 交付包演示 | 邮件交付、译文、双语审阅和质量报告 | 23 秒 | [R2 播放](https://pub-d3d7d0e36d9447159063249f2cb40dc3.r2.dev/product-promo-video-director/demos/goodtrans-delivery-proof.mp4) | [`MP4`](demos/goodtrans-delivery-proof.mp4) |
 
 这些 Demo 使用了 GoodTrans 的品牌和产品内容，作为能力演示发布；如果你要制作自己的视频，请替换为自己的品牌、素材和经过核验的产品事实。
 
