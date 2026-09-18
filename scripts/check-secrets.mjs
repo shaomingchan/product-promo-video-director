@@ -24,11 +24,12 @@ function walk(directory) {
     if (!textExtensions.has(path.extname(entry.name).toLowerCase()) && entry.name !== '.env.example') continue;
     const text = fs.readFileSync(filePath, 'utf8');
     for (const pattern of secretPatterns) {
+      // Global regexes keep lastIndex between files, so reset before each test.
+      pattern.lastIndex = 0;
       if (pattern.test(text)) {
         findings.push(path.relative(root, filePath));
         break;
       }
-      pattern.lastIndex = 0;
     }
   }
 }
