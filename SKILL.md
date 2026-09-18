@@ -324,6 +324,7 @@ description: Use when a user wants a product promo, SaaS demo, launch video, exp
     - `references/pacing-rules.md`          节奏 / 时长 / 转场密度规范（聊节奏时读）
     - `references/spec-rules.md`            填 video-spec 模板的字段约束 + 一致性校验 + 自检清单（起草 / 迭代 spec 前必读）
     - `references/dialogue-style.md`        对话风格范本（典型表达 / 方案引导 / 影视参考词典）
+    - `references/product-demo-lessons.md`  产品宣传片实测基线与骨架规律（产品 / SaaS 类必读）
 
     项目根 `design.md` —— 用户自定义主题文件（HyperFrames 渲染端读取的唯一主题文件，路径基准 = video-spec.md 所在目录）
 

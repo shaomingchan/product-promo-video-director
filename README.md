@@ -228,7 +228,7 @@ product-promo-video-director/
 ├── README.en.md                     # English overview
 ├── SECURITY.md                      # 密钥与漏洞处理
 ├── NOTICE.md                        # 上游工作流与 Demo 说明
-├── references/                      # 提问、分镜、节奏和质量规则
+├── references/                      # 提问、分镜、节奏、质量规则与实测基线
 ├── templates/video-spec-template.md # 可手工参考的脚本模板
 ├── examples/                        # 完整分镜示例
 ├── demos/                           # 公开演示视频
